@@ -2,7 +2,7 @@ Amazon Product Sales Analysis
 
 This project uses Python-based exploratory data analysis to uncover insights from Amazon's product sales dataset.
 
----
+
 
 Dataset Overview:
 
@@ -11,20 +11,20 @@ Dataset Overview:
 - Columns:
   - `Order Date`, `Ship Date`, `Email_ID`, `Geography`, `Category`, `Product Name`, `Sales`, `Quantity`, `Profit`
 
----
+
 
 Problem Statement:
 
 Analyze Amazon’s product sales data to identify product performance, profitability, regional sales trends, and shipping efficiency—providing actionable insights for strategic decision-making.
 
----
+
 
 Tools Used:
 
 - Python (Pandas, NumPy)
 - Data Visualization (Matplotlib, Seaborn)
 
----
+
 
 Key Findings and Insights:
 
@@ -38,7 +38,7 @@ Key Findings and Insights:
 - Shipping Performance:
   - Average shipping duration analyzed, identifying regions with potential improvements.
 
----
+
 
 Visualizations:
 
@@ -47,7 +47,7 @@ Visualizations:
 ![image](https://github.com/user-attachments/assets/593ea397-1c84-4e6d-8d53-05b0854c9d73)
 
 
----
+
 
 Recommendations:
 
